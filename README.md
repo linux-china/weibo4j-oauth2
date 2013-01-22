@@ -1,6 +1,6 @@
 新浪微博 OAuth 2 SDK
 =======================================
-微博的Java SDK。
+微博的Java SDK，原地址在 http://code.google.com/p/weibo4j/
 
 ### 改动
 * 调整为Maven项目标准结构
